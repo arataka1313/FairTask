@@ -18,7 +18,7 @@ env/
 .streamlit/config.toml
 .streamlit/*.json
 .streamlit/*.log
-
+.streamlit/secrets.toml
 # VSCode settings
 .vscode/
 

@@ -1,5 +1,8 @@
 import os
 import requests
+from dotenv import load_dotenv
+
+load_dotenv()
 
 WEBHOOK_URL = os.getenv("DISCORD_WEBHOOK_URL")
 print("🐾 Webhook URL 読み込み:", "✅ OK" if WEBHOOK_URL else "❌ 失敗")

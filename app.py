@@ -5,6 +5,7 @@ import user_input
 import task_input
 import history_view
 import thanks_ranking
+import admin_view
 
 st.set_page_config(page_title="FairTaskにゃ", layout="centered")
 
@@ -14,7 +15,8 @@ page = st.sidebar.radio("にゃにする？", (
     "ユーザー登録",
     "タスク登録",
     "完了率ランキング",
-    "Thanksランキング"
+    "Thanksランキング",
+    "（管理）データ初期化"
 ))
 
 if page == "割り当て管理":
@@ -27,3 +29,5 @@ elif page == "完了率ランキング":
     history_view.run()
 elif page == "Thanksランキング":
     thanks_ranking.run()
+elif page == "（管理）データ初期化":
+    admin_view.run()
