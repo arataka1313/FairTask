@@ -27,8 +27,8 @@ env/
 Thumbs.db
 
 # Data files (optional: keep if tracking is needed)
-data/*.json
-!data/.gitkeep
+#data/*.json
+#!data/.gitkeep
 
 # Jupyter (just in case)
 .ipynb_checkpoints/
