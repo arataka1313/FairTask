@@ -5,6 +5,7 @@ from dotenv import load_dotenv
 load_dotenv()
 
 WEBHOOK_URL = os.getenv("DISCORD_WEBHOOK_URL")
+print("🐾 Webhook URL:", webhook_url)
 
 def send_notification(message):
     if not WEBHOOK_URL:
