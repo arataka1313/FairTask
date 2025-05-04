@@ -1,0 +1,48 @@
+[
+  {
+    "name": "A",
+    "points": 34,
+    "unavailable": []
+  },
+  {
+    "name": "B",
+    "points": 28,
+    "unavailable": []
+  },
+  {
+    "name": "C",
+    "points": 27,
+    "unavailable": [
+      "2025-05-08",
+      "2025-05-10"
+    ]
+  },
+  {
+    "name": "D",
+    "points": 36,
+    "unavailable": [
+      "2025-05-09",
+      "2025-05-11"
+    ]
+  },
+  {
+    "name": "E",
+    "points": 32,
+    "unavailable": []
+  },
+  {
+    "name": "F",
+    "points": 0,
+    "unavailable": []
+  },
+  {
+    "name": "G",
+    "points": 0,
+    "unavailable": []
+  },
+  {
+    "name": "H",
+    "points": 3,
+    "unavailable": []
+  }
+]
