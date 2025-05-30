@@ -1,32 +1,42 @@
 [
   {
-    "name": "aa",
-    "points": 3,
+    "name": "あらい",
+    "points": 5,
     "unavailable": [
-      "2025-05-06",
-      "2025-05-08"
+      "2025-08-12",
+      "2025-08-31"
     ]
   },
   {
-    "name": "aaavvv",
-    "points": 1,
-    "unavailable": [
-      "2025-05-06",
-      "2025-05-08"
-    ]
+    "name": "はる",
+    "points": 4,
+    "unavailable": []
   },
   {
-    "name": "v",
+    "name": "てん",
+    "points": 5,
+    "unavailable": []
+  },
+  {
+    "name": "ごう",
     "points": 0,
     "unavailable": []
   },
   {
-    "name": "e",
+    "name": "さとう",
+    "points": 0,
+    "unavailable": [
+      "2025-06-19",
+      "2025-06-24"
+    ]
+  },
+  {
+    "name": "はまたに",
     "points": 0,
     "unavailable": []
   },
   {
-    "name": "h",
+    "name": "たくみ",
     "points": 0,
     "unavailable": []
   }

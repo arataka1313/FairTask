@@ -1,14 +1,26 @@
 [
   {
-    "name": "aaa",
-    "points": 1
+    "name": "燃えるゴミ",
+    "points": 5
   },
   {
-    "name": "adsdf",
+    "name": "ペットボトル",
+    "points": 4
+  },
+  {
+    "name": "シャワー室掃除",
+    "points": 4
+  },
+  {
+    "name": "フロア掃除",
+    "points": 2
+  },
+  {
+    "name": "ビン・缶",
     "points": 3
   },
   {
-    "name": "2323",
-    "points": 2
+    "name": "洗濯室掃除",
+    "points": 3
   }
 ]
